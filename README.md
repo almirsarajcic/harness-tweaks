@@ -6,3 +6,5 @@ Recipes for repairing and customizing the AI apps you already use.
 - **Tweaks** make small, reversible changes to an app’s interface or shortcuts.
 
 Use the [recipe template](templates/RECIPE.md) to document a change and check it after an update.
+
+Licensed under [Apache 2.0](LICENSE).
